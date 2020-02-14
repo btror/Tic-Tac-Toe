@@ -9,3 +9,6 @@ A simple python GUI of Tic-Tac-Toe
 
 # About This Project
 I'm taking 2 computer science courses that require me to use Python, and this project is just extra Python practice. This project is not related to any of my course-work, other than the fact that it utilizes Python. 
+
+# Author
+<a href="https://github.com/btror">Brandon</a>
