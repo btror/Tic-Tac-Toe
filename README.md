@@ -8,4 +8,4 @@ A simple python GUI of Tic-Tac-Toe
 <p align="center"><img src="tictactoepython.gif" width="900" height="500"></p>
 
 # About This Project
-I'm taking 2 computer science courses that require me to use Python, and this project is just extra practice. This project is not related to any of my course-work, other than the fact that it utilizes Python. 
+I'm taking 2 computer science courses that require me to use Python, and this project is just extra Python practice. This project is not related to any of my course-work, other than the fact that it utilizes Python. 
